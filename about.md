@@ -1,7 +1,7 @@
 ---
 layout: page
 navigation_title: About
-title: About Evento
+title: About Fundevs
 permalink: /about/
 ---
 
