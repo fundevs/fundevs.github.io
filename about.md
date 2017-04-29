@@ -8,5 +8,5 @@ permalink: /about/
 
 FunDevs is a company founded by (and for) software developers who enjoy building fun things.
 
-# Coming more soon!
+# More coming soon!
 
