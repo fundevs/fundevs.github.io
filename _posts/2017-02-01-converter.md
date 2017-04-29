@@ -4,6 +4,7 @@ layout: post
 #event information
 title:  "MP3 Video Converter"
 cover: "../converter_desc.png"
+cover_home: "./converter_desc.png"
 date:   2017-02-01
 start_time: "09:00"
 end_time: "12:00"
