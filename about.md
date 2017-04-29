@@ -1,7 +1,7 @@
 ---
 layout: page
 navigation_title: About
-title: About Fundevs
+title: About FunDevs
 cover: '../jumbotron-bg.jpg'
 permalink: /about/
 ---
