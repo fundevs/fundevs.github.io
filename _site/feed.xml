@@ -1,43 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Site</title>
+    <title>FunDevs</title>
     <description>Simple 
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Feb 2017 18:38:46 -0500</pubDate>
-    <lastBuildDate>Fri, 10 Feb 2017 18:38:46 -0500</lastBuildDate>
+    <pubDate>Sat, 29 Apr 2017 14:27:25 -0400</pubDate>
+    <lastBuildDate>Sat, 29 Apr 2017 14:27:25 -0400</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
-        <title>Docker</title>
-        <description>&lt;p&gt;Its everywhere. Docker, Docker, Docker! If your an expert or new to Docker come to my 3 hour training session.&lt;/p&gt;
+        <title>MP3 Video Converter</title>
+        <description>&lt;p&gt;With MP3 Video Converter, you can convert, resize and trim your videos and audios with various options. (bitrate, size, meta data)&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Supports various types of videos (MP4, 3GP, WEBM, WMV, FLV and so on)&lt;/li&gt;
+  &lt;li&gt;Supports various types of audio (MP3, AAC, OGG and so on)&lt;/li&gt;
+  &lt;li&gt;Supports editing meta information (title, album, artist)&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;I will also provide cake!&lt;/p&gt;
+&lt;p&gt;Find more information at http://support.fundevs.com.&lt;/p&gt;
 
-&lt;p&gt;Just click the button and let me know you want to attend.&lt;/p&gt;
-
-&lt;p&gt;I promise…it will be fun!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 05 Feb 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/posts/docker.html</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/docker.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Test Product</title>
-        <description>&lt;p&gt;Its everywhere. Docker, Docker, Docker! If your an expert or new to Docker come to my 3 hour training session.&lt;/p&gt;
-
-&lt;p&gt;I will also provide cake!&lt;/p&gt;
-
-&lt;p&gt;Just click the button and let me know you want to attend.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I promise&lt;/strong&gt;…it will be fun!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/25009350/mp3converter/res%209/mipmap-xxxhdpi/ic_launcher.png&quot; alt=&quot;Alt&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Download it from &lt;img src=&quot;https://www.gstatic.com/android/market_images/web/favicon_v2.ico&quot; width=&quot;16px&quot; height=&quot;16px&quot; /&gt;Google Play Store : &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.fundevs.app.mediaconverter&quot;&gt;Click Here!&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/posts/converter.html</link>
