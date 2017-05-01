@@ -22,6 +22,6 @@ With MP3 Video Converter, you can convert, resize and trim your videos and audio
 2. Supports various types of audio (MP3, AAC, OGG and so on)
 3. Supports editing meta information (title, album, artist)
 
-Find more information at http://support.fundevs.com.
+Find more information at [http://support.fundevs.com.](http://support.fundevs.com)
 
 Download it from <img src="https://www.gstatic.com/android/market_images/web/favicon_v2.ico" width="16px" height="16px" />Google Play Store : [Click Here!](https://play.google.com/store/apps/details?id=com.fundevs.app.mediaconverter)
