@@ -6,6 +6,11 @@ cover: '../jumbotron-bg.jpg'
 permalink: /policy/
 ---
 
-FunDevs is a company founded by (and for) software developers who enjoy building fun things.
+Our free applications use or may use advertisng currently provided by following services and anonymous statistical information is reported to them so they can see whether their adverts are effective. Click each ad service provider to see more information about their privacy policy.
 
-# More coming soon!
+- [AdMob](https://policies.google.com/technologies/partner-sites)
+- [Smaato](https://www.smaato.com/privacy/)
+- [MobFox](https://www.mobfox.com/privacy-policy/)
+- [Ogury](https://www.ogury.com/privacy)
+- [InMobi](https://www.inmobi.com/privacy-policy-for-eea)
+- [StartApp](https://www.startapp.com/policy/privacy-policy/)
