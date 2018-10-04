@@ -1,6 +1,6 @@
 ---
 layout: page
-navigation_title: About
+navigation_title: Policy
 title: Privacy Policy
 cover: '../jumbotron-bg.jpg'
 permalink: /policy/
