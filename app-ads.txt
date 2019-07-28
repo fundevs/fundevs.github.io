@@ -1,5 +1,5 @@
 Ogury.com, 631d6aa3c9580181bd732ab575dee65b, DIRECT
-aol.com, 8a809417015756b8e4f7032800450454, DIRECT
+aol.com, 28614, DIRECT, e1a5b5b6e3255540 #appOath
 smaato.com, 1100022004, DIRECT, 07bcf65f187117b4
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
@@ -24,3 +24,4 @@ somoaudience.com, e0ac315e5cd7f6977fe44dbd2d4676ea, RESELLER, afbbacfd95716fd4
 startapp.com, smt, RESELLER
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
 inmobi.com, 696e075dbfcf448e9dc3c6db670002cc, DIRECT
+mobfox.com, 7224d2ec134e9b8902a5f1b1bc51dc2c, DIRECT
