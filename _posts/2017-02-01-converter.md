@@ -26,4 +26,5 @@ Find more information at [http://support.fundevs.com.](http://support.fundevs.co
 
 Support email: [mp3converter@fundevs.com](mailto:mp3converter@fundevs.com)
 
-Download it from <img src="https://www.gstatic.com/android/market_images/web/favicon_v2.ico" width="16px" height="16px" />Google Play Store : [Click Here!](https://play.google.com/store/apps/details?id=com.fundevs.app.mediaconverter)
+Download it from 
+<img src="https://www.gstatic.com/android/market_images/web/favicon_v2.ico" width="16px" height="16px" />[Google Play Store](https://play.google.com/store/apps/details?id=com.fundevs.app.mediaconverter)  /  <img src="https://www.apkmirror.com/wp-content/themes/APKMirror/images/favicon.ico?v=2" width = "16px" height="16px">[APKMirror](https://www.apkmirror.com/apk/fundevs/mp3-video-converter)
