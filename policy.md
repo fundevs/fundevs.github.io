@@ -11,6 +11,7 @@ Our free applications use or may use advertisng currently provided by following 
 - [AdMob](https://policies.google.com/technologies/partner-sites)
 - [Smaato](https://www.smaato.com/privacy/)
 - [MobFox](https://www.mobfox.com/privacy-policy/)
+- [X-Mode](https://xmode.io/xmode-privacy-policy-2/)
 
 We are also partnered with **Tutela Technologies Ltd.** and it may collect data relating to your use of our apps, wireless networks, and your device, in a pseudonymized manner, that may include (a combination of) Personal Data and/or Personal Information elements, such as
 
