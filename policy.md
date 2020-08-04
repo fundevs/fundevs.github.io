@@ -33,3 +33,7 @@ Tutela never collects your sensitive personal information, name, phone number, o
 *How We Use and Share It*: We and other third parties may use the information (a) to customize ads in this or other apps (for instance, if your device is often located at or near music venues, you might receive offers for music tickets); (b) to measure effectiveness of those ads; (c) for disease prevention and research, security, anti-crime and law enforcement; or (d) for market, civic or other research regarding aggregated traffic patterns (for instance, a company that analyzes shopping trends might want to learn whether more or fewer devices are seen near malls or in other shopping districts).
 
 *How To Opt Out*: To opt-out of X-Mode’s data collection, (1) follow the instructions in [X-Mode’s Privacy Policy](https://www.xmode.io/xmode-privacy-policy/), or (2) for a platform-based opt-out of interest-based or “personalized” advertising, go to your device settings and opt out of interest-based or personalized advertising (iOS: Settings → General → Privacy → Advertising →Limit Ad-Tracking; Android: Settings → Google → Ads → Opt out of Ads Personalization). You may also prevent location from being collected by this or other apps through your location permission settings.
+
+
+
+support@fundevs.com
