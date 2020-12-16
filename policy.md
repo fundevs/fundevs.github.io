@@ -12,22 +12,6 @@ We don't collect or store any personal information ourselves, but to keep this a
 - [Smaato](https://www.smaato.com/privacy/)
 - [MobFox](https://www.mobfox.com/privacy-policy/)
 - [Tutela Technology](https://www.tutela.com/privacy)
-- [X-Mode](https://xmode.io/xmode-privacy-policy-2/)
-
-
-**Important Disclosures Related to Mobile Data Collection and Usage**
-
-**When this app is in use or running in the background, we collect and share with our business partners certain device and location data**:  Precise location data, Wi-Fi signals or Bluetooth Low Energy devices in your proximity, device-based advertising identifiers, app names and/or identifiers, internet or other electronic network activity information, and information about your mobile device such as type of device, operating system version and type, device settings, time zone, carrier, and IP address.  
-
-**That data may be used for the following purposes**:  (a) to customize ads in apps and other advertising;  (b) to measure effectiveness of those ads; (c) for app and user analytics; (d) for disease prevention, security, anti-crime and law enforcement; (e) for market, civic or other research regarding aggregated traffic patterns, (f) help improve the performance of your wireless network and apps, and (g) to generate proprietary pseudonymized identifiers tied to the information collected for the above purposes.
-
-**You may opt out of the above usage in various ways**:
-
-- For our partner X-Mode, follow the instructions on their opt-out web form at [https://xmode.io/optout-donotsell](https://xmode.io/optout-donotsell)
-- For other partners, pleaes refer to their privacy policy pages.
-
-X-Mode trusted parters: [https://xmode.io/trusted-partners](https://xmode.io/trusted-partners)
-
 
 
 **Tutela Technologies Ltd.** collects data relating to the wireless network performance your device experiences, in a pseudonymized manner, that may include the following categories of personal information and/or personal data:
