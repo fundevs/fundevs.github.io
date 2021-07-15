@@ -6,13 +6,21 @@ cover: '../jumbotron-bg.jpg'
 permalink: /policy/
 ---
 
-We don't collect or store any personal information ourselves, but to keep this app free, our partners collect and share location and device information for tailored advertising, attribution, and analytics, and with various commercial, charitable and government organizations for purposes described in the privacy policy through our app. You can find the list of our partners and the privacy polcies.
+**Important Disclosures Related to Mobile Data Collection and Usage**
+
+When this app is in use, we collect and share with our business partners certain device and location data:  Precise location data, Wi-Fi signals or Bluetooth Low Energy devices in your proximity, device-based advertising identifiers, app names and/or identifiers, internet or other electronic network activity information, and information about your mobile device such as type of device, operating system version and type, device settings, time zone, carrier, and IP address.  
+
+**That data may be used for the following purposes**:  (a) to customize ads in apps and other advertising;  (b) to measure effectiveness of those ads; (c) for app and user analytics; (d) for disease prevention, security, anti-crime and law enforcement; (e) for market, civic or other research regarding aggregated traffic patterns, (f) help improve the performance of your wireless network and apps, and (g) to generate proprietary pseudonymized identifiers tied to the information collected for the above purposes.
+
+You may opt out of the above usage by going to 'Settings' then click 'View / Update Consent' in the app.
+
+You can find our partners privacy policy and also opt out of each partner in the below link.
 
 - [Google AdMob](https://policies.google.com/privacy)
 - [Smaato](https://www.smaato.com/privacy/)
 - [MobFox](https://www.mobfox.com/privacy-policy/)
 - [Tutela Technology](https://www.tutela.com/privacy)
-
+- [Outlogic](https://outlogic.io/privacy-policy/)
 
 **Tutela Technologies Ltd.** collects data relating to the wireless network performance your device experiences, in a pseudonymized manner, that may include the following categories of personal information and/or personal data:
 
