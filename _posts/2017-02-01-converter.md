@@ -24,7 +24,7 @@ With Video MP3 Converter, you can convert, resize and trim your videos and audio
 
 Find more information at [http://support.fundevs.com.](http://support.fundevs.com)
 
-Support email: [mp3converter@fundevs.com](mailto:mp3converter@fundevs.com)
+Support email: [support@fundevs.com](mailto:support@fundevs.com)
 
 Download it from 
 <img src="https://www.gstatic.com/android/market_images/web/favicon_v2.ico" width="16px" height="16px" />[Google Play Store](https://play.google.com/store/apps/details?id=com.fundevs.app.mediaconverter)  /  <img src="https://www.apkmirror.com/wp-content/themes/APKMirror/images/favicon.ico?v=2" width = "16px" height="16px">[APKMirror](https://www.apkmirror.com/apk/fundevs/mp3-video-converter)
