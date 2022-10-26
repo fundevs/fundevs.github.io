@@ -19,18 +19,16 @@ You can find our partners privacy policy and also opt out of each partner in the
 - [Google AdMob](https://policies.google.com/privacy)
 - [Smaato](https://www.smaato.com/privacy/)
 - [MobFox](https://www.mobfox.com/privacy-policy/)
-- [Tutela Technology](https://www.tutela.com/privacy)
+- [Opensignal](https://www.opensignal.com/privacypolicy-for-crowdsourcedata)
 - [Outlogic](https://outlogic.io/privacy-policy/)
 
-**Tutela Technologies Ltd.** collects data relating to the wireless network performance your device experiences, in a pseudonymized manner, that may include the following categories of personal information and/or personal data:
+We’ve partnered with Opensignal to help improve the performance and reliability of this app and your wireless networks while respecting your privacy.
 
- - Geolocation. Precise location information (GPS and network-based) may be collected to aggregate and plot network performance on a map to convey coverage.
- - Identifiers. Device identifiers including Mobile Advertising ID may be collected to help mobile enterprises identify network technologies (e.g. 5G), understand drivers of churn/acquisition, and design effective marketing campaigns.
- - Internet or other electronic network activity information. The state of this application during a network test (e.g. “in use”) may be collected for data validation purposes. Tutela never sees or records any content viewed by users.
+Opensignal does not collect any information that directly identifies you or your device, and does not sell any personal data about you. Opensignal is the independent global standard for helping telecom ecosystem companies around the world better understand and improve network coverage to improve connectivity for all.
 
-Using this app and permitting Tutela to collect pseudonymous data may help improve the performance of your wireless network and apps. Tutela combines data collected from millions of devices to create [reports](https://www.tutela.com/blog) and [solutions](https://www.tutela.com/solutions) trusted by mobile enterprises around the world. This pseudonymous data may be shared with mobile network operators, network equipment manufacturers, and other third parties who use it to benchmark, compare, and understand the mobile industry, design effective marketing campaigns, and plan and optimize their networks.
+Opensignal may collect data relating to the wireless network performance your device experiences, that may include the following types of personal information and/or personal data: Geolocation data, identifiers (e.g. network names, resettable IDs, BSSIDs, and other access point information), and app state. Opensignal uses this data to gather information on network experience and create aggregated reports and/or data solutions including anonymized location, for example by plotting network performance on a map to convey coverage.
 
-Tutela never collects your sensitive personal information, name, phone number, or e-mail, and takes technical and administrative measures to ensure data is not attributed to particular consumers. For further information about Tutela’s data practices please see the [Tutela Privacy Charter](https://public.tutela.com/TutelaPrivacyCharter.pdf). You have the right to opt-out of data sharing with Tutela. To do so, please utilize the opt-out measures provided in your mobile application or this privacy statement, or visit [Do Not Sell My Info](https://www.tutela.com/opt-out).
+You can learn more about Opensignal's privacy policy [here](https://www.opensignal.com/privacypolicy-for-crowdsourcedata). You have the right to opt-out of data sharing with Opensignal at any time. To do so please use the opt-out measures provided in your mobile application or this privacy statement.
 
 
 
