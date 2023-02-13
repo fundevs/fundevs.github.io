@@ -19,6 +19,7 @@ You can find our partners privacy policy and also opt out of each partner in the
 - [Google AdMob](https://policies.google.com/privacy)
 - [Smaato](https://www.smaato.com/privacy/)
 - [MobFox](https://www.mobfox.com/privacy-policy/)
+- [umlaut communications GmbH](https://www.umlaut.com/privacy-policy)
 - [Opensignal](https://www.opensignal.com/privacypolicy-for-crowdsourcedata)
 - [Outlogic](https://outlogic.io/privacy-policy/)
 
