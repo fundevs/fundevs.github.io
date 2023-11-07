@@ -31,5 +31,4 @@ Opensignal may collect data relating to the wireless network performance your de
 
 You can learn more about Opensignal's privacy policy [here](https://www.opensignal.com/privacypolicy-for-crowdsourcedata). You have the right to opt-out of data sharing with Opensignal at any time. To do so please use the opt-out measures provided in your mobile application or this privacy statement.
 
-
 support@fundevs.com
