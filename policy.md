@@ -31,4 +31,6 @@ Opensignal may collect data relating to the wireless network performance your de
 
 You can learn more about Opensignal's privacy policy [here](https://www.opensignal.com/privacypolicy-for-crowdsourcedata). You have the right to opt-out of data sharing with Opensignal at any time. To do so please use the opt-out measures provided in your mobile application or this privacy statement.
 
-support@fundevs.com
+When this app is in use (or running in the background) we collect and share with our business partners certain device and location data: Precise location data of the device, WiFi signals or Bluetooth Low Energy devices in your proximity, device-based advertising identifiers, app names and/or identifiers, and information about your mobile device such as type of device, operating system version and type, device settings, time zone, carrier, and IP address. That data may be used for the following purposes: (a) to customize and measure ads in apps and other advertising; (b) for app and user analytics; (c) for disease prevention, and cybersecurity,; (d) for market, civic or other research regarding aggregated human foot and traffic patterns, and (e) to generate proprietary pseudonymized identifiers tied to the information collected for the above purposes. You may opt out of the above usage by disabling location permission or turning down the consent in the settings.
+
+[Outlogic’s Trusted Partners](https://outlogic.io/trusted-partners/)
