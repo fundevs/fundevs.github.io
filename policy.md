@@ -19,6 +19,7 @@ You can find our partners privacy policy and also opt out of each partner in the
 - [Google AdMob](https://policies.google.com/privacy)
 - [Smaato](https://www.smaato.com/privacy/)
 - [InMobi](https://www.inmobi.com/privacy-policy)
+- [CellRebel](https://www.cellrebel.com/privacy_policy)
 - [umlaut communications GmbH](https://www.umlaut.com/privacy-policy)
 - [Outlogic](https://outlogic.io/privacy-policy/)
 
