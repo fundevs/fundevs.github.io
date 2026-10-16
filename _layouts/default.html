@@ -1,30 +1,54 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>{% if page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}: apps for the music and video on your phone{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:url" content="{{ page.url | replace: 'index.html', '' | absolute_url }}">
+  <meta name="theme-color" content="#f3f4f6" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#101318" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="{{ '/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="32x32">
+  <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Hanken+Grotesk:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+<body>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="fd" viewBox="5.5 2.5 14 21"><path d="M11 20V8.5A5.5 5.5 0 0 1 16.5 3H19v3.4h-2.5A2.1 2.1 0 0 0 14.4 8.5V20z"/><rect x="7" y="9" width="11" height="3"/><circle cx="9.4" cy="19.2" r="3.6"/></symbol>
+  </svg>
 
-  {% include head.html %}
-
-  <body>
-
-    {% include header.html %}
-
-{% if page.cover %}
-  <div class="blog-cover" style="background-image:url({{page.cover}});">
-{% else %}
-  <div class="blog-cover" style="background-image:url(http://app-beacon.com/wp-content/uploads/2015/05/events.jpg);">
-{% endif %}
-  </div>
-  {% if page.cover_credit %}
-    <span class="blog-cover-credit">Credit: Mother</span>
-  {% endif %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="mark" href="{{ '/' | relative_url }}"><svg class="f" aria-hidden="true"><use href="#fd"/></svg>FunDevs</a>
+      <nav class="top" aria-label="Main">
+        <a href="{{ '/#converter' | relative_url }}">Video MP3 Converter</a>
+        <a href="{{ '/#tinge' | relative_url }}">Tinge Player</a>
+        <a href="{{ '/#support' | relative_url }}">Support</a>
+      </nav>
     </div>
+  </header>
 
-    {% include footer.html %}
+  <main>
+{{ content }}
+  </main>
 
-  </body>
-
+  <footer class="site-footer">
+    <div class="wrap">
+      <span class="co"><svg class="f" aria-hidden="true"><use href="#fd"/></svg>© 2016–{{ 'now' | date: '%Y' }} FunDevs LLC</span>
+      <nav aria-label="Legal">
+        <a href="{{ '/policy/' | relative_url }}"{% if page.url == '/policy/' %} aria-current="page"{% endif %}>Privacy policy</a>
+        <a href="{{ '/opt-out.html' | relative_url }}">Your privacy choices</a>
+      </nav>
+    </div>
+  </footer>
+</body>
 </html>

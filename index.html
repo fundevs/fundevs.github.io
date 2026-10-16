@@ -1,60 +1,123 @@
 ---
 layout: default
-cover: './jumbotron-bg.jpg'
 ---
-
-
-
-<div class="home">
-    {% capture currentDate %}{{'now' | date: '%s' }}{% endcapture %}
-
-    <div class="clearfix">
-
-      <h1 class="event-time-heading">Products</h1>
-      {% for post in site.posts %}
-
-        {% if post.product %}
-
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            {% if post.cover %}
-            <div class="event-sqaure" style="background-image:url({{post.cover_home}});">
-            {% else %}
-            <div class="event-sqaure" style="background-image:url(http://app-beacon.com/wp-content/uploads/2015/05/events.jpg);">
-            {% endif %}
-              <h2>{{ post.title }}</h2>
-              <div class='event-square-overlay'></div>
-            </div>
-            
-          </a>
-
-        {% endif %}
-
-      {% endfor %}
+<section class="intro" id="top">
+  <div class="wrap">
+    <div>
+      <h1>Apps for the music <em>and video</em> on your phone.</h1>
+      <p>FunDevs is a small team building media tools for Android. Two apps, made carefully.</p>
     </div>
+    <div class="index" aria-label="Apps">
+      <a href="#converter">
+        <span class="ic"><img src="/assets/img/converter-icon.webp" alt=""></span>
+        <span class="nm">Video MP3 Converter</span>
+        <span class="st mono">Android · 100M+ installs · 4.4★</span>
+        <span class="arrow">↓</span>
+      </a>
+      <a href="#tinge">
+        <span class="ic sq"><img src="/assets/img/tinge-icon.svg" alt=""></span>
+        <span class="nm">Tinge Player</span>
+        <span class="st mono">Android · In beta</span>
+        <span class="arrow">↓</span>
+      </a>
+    </div>
+  </div>
+</section>
 
-<!--     <div class="clearfix">
+<section class="band conv" id="converter">
+  <div class="wrap">
+    <div>
+      <div class="app-id"><img src="/assets/img/converter-icon.webp" alt="Video MP3 Converter icon"><span class="label">Video MP3 Converter</span></div>
+      <h2>Keep the part of the song you came for.</h2>
+      <p class="lede">Trim a clip, pull the audio out of a video, and save it as MP3 or AAC with the bitrate and tags you choose. Make ringtones and set album covers in the same place.</p>
+      <dl class="specs">
+        <dt>Reads</dt><dd class="mono">MP4 · 3GP · WEBM · WMV · FLV</dd>
+        <dt>Writes</dt><dd class="mono">MP3 · AAC · OGG</dd>
+        <dt>Edit</dt><dd>Trim, resize, bitrate, title / artist / album, album cover, ringtone</dd>
+      </dl>
+      <div class="cta-row">
+        <a class="btn" href="https://play.google.com/store/apps/details?id=com.fundevs.app.mediaconverter" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 2.6v18.8c0 .4.4.6.7.4l16.3-9.4c.3-.2.3-.6 0-.8L4.7 2.2C4.4 2 4 2.2 4 2.6z"/></svg>
+          Get it on Google Play
+        </a>
+        <span class="stat"><b>100M+</b> installs · <b>4.4</b> from 690K reviews</span>
+      </div>
+    </div>
+    <figure class="demo shotcard">
+      <div class="screen"><img src="/assets/img/converter-shot-1.webp" alt="Trim and convert screen: a selection on the timeline, audio output, 245 kb/s, AAC" width="366" height="568"></div>
+      <figcaption>The trim and convert screen in the current version. A redesigned version is on the way.</figcaption>
+    </figure>
+  </div>
+</section>
 
-      <h1 class="event-time-heading">Recent {% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %} </h1>
-      {% for post in site.posts %}
-        {% capture currentDate %}{{'now' | date: '%s' | minus:2592000}}{% endcapture %}
-        {% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
+<section class="band tinge" id="tinge">
+  <div class="wrap">
+    <div class="demo">
+      <div class="glow" id="glow">
+        <div class="phone"><div class="scr" id="nowscr">
+          <img src="/assets/img/tinge-now-violet.webp" alt="Now playing Midnight Signal, violet album colours" data-k="violet">
+          <img src="/assets/img/tinge-now-amber.webp" alt="Now playing Paper Lanterns, amber album colours" data-k="amber" style="opacity:0">
+          <img src="/assets/img/tinge-now-teal.webp" alt="Now playing Polar Drift, teal album colours" data-k="teal" style="opacity:0">
+        </div></div>
+      </div>
+      <div class="swatches" role="group" aria-label="Switch album">
+        <button aria-pressed="true" data-k="violet" data-glow="#8b3cf0" style="background:linear-gradient(135deg,#22d3ee,#8b3cf0,#ec4899)" aria-label="Midnight Signal"></button>
+        <button aria-pressed="false" data-k="amber" data-glow="#f08a2a" style="background:linear-gradient(135deg,#fcd34d,#f97316,#ec4899)" aria-label="Paper Lanterns"></button>
+        <button aria-pressed="false" data-k="teal" data-glow="#14b8a6" style="background:linear-gradient(135deg,#a7f3d0,#14b8a6,#1e3a8a)" aria-label="Polar Drift"></button>
+      </div>
+      <div class="swatch-cap">Switch albums and the player follows the cover</div>
+    </div>
+    <div>
+      <div class="app-id sq"><img src="/assets/img/tinge-icon.svg" alt="Tinge Player icon"><span class="label">Tinge Player</span></div>
+      <h2>Your music and video, lit by what's playing.</h2>
+      <p class="lede">Tinge reads the cover art and washes the whole player in its colours. Lyrics scroll with the song, videos pick up where you stopped, and everything stays on your phone.</p>
+      <dl class="specs">
+        <dt>Music</dt><dd>Songs, recent, albums, artists, playlists, play queue, sleep timer, equalizer</dd>
+        <dt>Video</dt><dd>Folders, resume where you left off, swipe for brightness, volume and seek, screen lock</dd>
+        <dt>Lyrics</dt><dd class="mono">LRC · SMI · multi-language</dd>
+      </dl>
+      <div class="cta-row">
+        <span class="pill"><i></i>IN BETA · ANDROID</span>
+      </div>
+    </div>
+  </div>
+  <div class="gallery"><div class="wrap">
+    <div class="strip">
+      <figure><div class="phone"><div class="scr"><img src="/assets/img/tinge-albums.webp" alt="Album grid" loading="lazy"></div></div><figcaption>Albums</figcaption></figure>
+      <figure><div class="phone"><div class="scr"><img src="/assets/img/tinge-lyrics.webp" alt="Synced lyrics with the current line highlighted" loading="lazy"></div></div><figcaption>Synced lyrics</figcaption></figure>
+      <figure><div class="phone"><div class="scr"><img src="/assets/img/tinge-videos.webp" alt="Video folder with thumbnails" loading="lazy"></div></div><figcaption>Video folders</figcaption></figure>
+      <figure class="wide"><div class="land"><img src="/assets/img/tinge-video-player.webp" alt="Video playing in landscape with controls" width="960" height="432" loading="lazy"></div><figcaption>Video player with speed, seek and screen lock</figcaption></figure>
+    </div>
+  </div></div>
+</section>
 
-        {% if blogDate > currentDate %}
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            {% if post.cover %}
-            <div class="event-sqaure" style="background-image:url({{post.cover}});">
-            {% else %}
-            <div class="event-sqaure" style="background-image:url(http://app-beacon.com/wp-content/uploads/2015/05/events.jpg);">
-            {% endif %}
-              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
-              <div class='event-square-overlay'></div>
-            </div>
-            
-          </a>
+<section class="about" id="support">
+  <div class="wrap">
+    <div>
+      <span class="label">About</span>
+      <h2>FunDevs LLC</h2>
+    </div>
+    <div>
+      <p>We build Android apps for working with audio and video. Our apps do their processing on your device, and we answer support email ourselves.</p>
+      <div class="contact">
+        <div><span class="label">Support</span><a class="mono" style="font-size:15px" href="mailto:support@fundevs.com">support@fundevs.com</a></div>
+        <div><span class="label">Help center</span><a href="http://support.fundevs.com" target="_blank" rel="noopener">support.fundevs.com</a></div>
+      </div>
+    </div>
+  </div>
+</section>
 
-        {% endif %}
-
-      {% endfor %}
-    </div> -->
-
-</div>
+<script>
+(function () {
+  var imgs = document.querySelectorAll('#nowscr img');
+  var btns = document.querySelectorAll('.swatches button');
+  var glow = document.getElementById('glow');
+  btns.forEach(function (b) {
+    b.addEventListener('click', function () {
+      imgs.forEach(function (im) { im.style.opacity = im.dataset.k === b.dataset.k ? '1' : '0'; });
+      btns.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+      glow.style.setProperty('--glow', b.dataset.glow);
+    });
+  });
+})();
+</script>

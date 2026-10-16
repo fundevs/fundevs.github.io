@@ -1,39 +1,10 @@
-# Evento
+# fundevs.com
 
-Evento is a minimal, responsive theme for Jekyll. The projects allows people, groups or companies to host and show a list future and past events.
+The FunDevs website, served by GitHub Pages from this repository's default branch.
 
-### Features
+- `index.html` is the home page; `policy.html` is the privacy policy at `/policy/`.
+- `_layouts/default.html` holds the shared head, header and footer. Styles are in `assets/css/site.css`.
+- `app-ads.txt`, `opt-out.html` and `CNAME` are referenced by the apps and ad networks. Keep their paths unchanged.
+- `posts/converter.html` and `about/index.html` only redirect old addresses to the home page.
 
-* Clean layout
-* Responsive layout
-* Shows future and past events
-* Easy for people to add events
-
----
-
-### Install and Test
-
-1. Download or clone repo `git clone git@github.com:boyney123/evento.git`
-2. Enter the folder: `cd evento/`
-4. Start Jekyll server: `jekyll serve`
-
-Access via: [http://localhost:4000](http://localhost:4000)
-
----
-
-### Demo and Download
-
-[Demo](http://evento.davidboyne.co.uk)
-
-[Download](https://github.com/boyney123/evento/archive/master.zip)
-
-### Screen Shot 1
-![Evento - free Jekyll theme](/screenshot.png)
-### Screen Shot 2
-![Evento - free Jekyll theme](/screenshot2.png)
-
----
-
-### Copyright and license
-
-It is under [the MIT license](/LICENSE).
+Preview locally with `jekyll serve` and open http://localhost:4000.
